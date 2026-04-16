@@ -1,19 +1,23 @@
 {
-  "description": "Extension removing scrolling functionality on YouTube while playing fullscreen video",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "YT don't scroll on fullscreen",
-  "version": "1.0",
-  "homepage_url": "https://github.com/macciek-k/YT-dont-scroll-on-fullscreen",
+  "version": "1.1.0",
+  "description": "Prevents mouse-wheel scrolling from triggering YouTube fullscreen overlays while a video is fullscreen.",
+  "homepage_url": "https://github.com/BrendanoElTaco/YT-dont-scroll-on-fullscreen",
   "icons": {
     "48": "icons/YTdSF-48.png",
     "96": "icons/YTdSF-96.png"
   },
-
   "content_scripts": [
     {
       "matches": ["*://*.youtube.com/*"],
-      "js": ["script.js"]
+      "js": ["script.js"],
+      "run_at": "document_start"
     }
-  ]
-
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "yt-dont-scroll-on-fullscreen@yourdomain"
+    }
+  }
 }
