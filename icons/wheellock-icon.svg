@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   role="img"
+   aria-label="WheelLock icon"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="wheellock-icon.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.2128906"
+     inkscape:cx="254.41836"
+     inkscape:cy="256"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="redGrad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#ff1c26"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#ff1020"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="darkGrad"
+       x1="-63.213923"
+       y1="-51.254532"
+       x2="63.213923"
+       y2="-51.254532"
+       gradientTransform="matrix(0.8542422,0,0,1.1706282,0,-14)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#27313c"
+         id="stop3" />
+      <stop
+         offset="100%"
+         stop-color="#1a222b"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <!-- Main rounded rectangle -->
+  <rect
+     x="40"
+     y="140"
+     width="432"
+     height="232"
+     rx="56"
+     fill="url(#redGrad)"
+     id="rect4" />
+  <!-- Fullscreen corner marks -->
+  <g
+     fill="none"
+     stroke="#ffffff"
+     stroke-width="14"
+     stroke-linecap="square"
+     id="g7">
+    <path
+       d="M82 194 V156 H118"
+       id="path4" />
+    <path
+       d="M394 156 H430 V194"
+       id="path5" />
+    <path
+       d="M82 318 V356 H118"
+       id="path6" />
+    <path
+       d="M394 356 H430 V318"
+       id="path7" />
+  </g>
+  <!-- Circle and mouse -->
+  <g
+     transform="translate(256 256)"
+     id="g8">
+    <circle
+       r="83"
+       fill="#ffffff"
+       stroke="#222b35"
+       stroke-width="10"
+       id="circle7" />
+    <path
+       d="m 0,-72 c -29,0 -52,23 -52,52 v 40 c 0,29 23,52 52,52 29,0 52,-23 52,-52 V -20 C 52,-49 29,-72 0,-72 Z"
+       fill="url(#darkGrad)"
+       stroke="#222b35"
+       stroke-width="4"
+       id="path8"
+       style="fill:url(#darkGrad)" />
+    <line
+       x1="0"
+       y1="-70"
+       x2="0"
+       y2="-28"
+       stroke="#ffffff"
+       stroke-width="6"
+       stroke-linecap="round"
+       id="line8" />
+    <rect
+       x="-10"
+       y="-58"
+       width="20"
+       height="40"
+       rx="8"
+       fill="#ffffff"
+       id="rect8" />
+  </g>
+  <!-- Prohibition slash -->
+  <path
+     d="M176 329 L342 183"
+     stroke="#ff1724"
+     stroke-width="26"
+     stroke-linecap="round"
+     id="path9" />
+</svg>
