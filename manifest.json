@@ -3,7 +3,7 @@
   "name": "WheelLock for YouTube Fullscreen",
   "version": "1.1.0",
   "description": "Blocks accidental mouse-wheel input while YouTube videos are in fullscreen.",
-  "homepage_url": "https://github.com/BrendanoElTaco/YT-dont-scroll-on-fullscreen",
+  "homepage_url": "https://github.com/BrendanoElTaco/WheelLock-for-YouTube-Fullscreen",
   "icons": {
     "48": "icons/YTdSF-48.png",
     "96": "icons/YTdSF-96.png"
