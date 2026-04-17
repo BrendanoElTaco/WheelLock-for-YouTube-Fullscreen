@@ -5,8 +5,8 @@
   "description": "Blocks accidental mouse-wheel input while YouTube videos are in fullscreen.",
   "homepage_url": "https://github.com/BrendanoElTaco/WheelLock-for-YouTube-Fullscreen",
   "icons": {
-    "48": "icons/wheellock.svg",
-    "96": "icons/wheellock.svg"
+    "48": "icons/wheellock-icon.svg",
+    "96": "icons/wheellock-icon.svg"
   },
   "content_scripts": [
     {
