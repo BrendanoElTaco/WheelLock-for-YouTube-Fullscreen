@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="2.2128906"
-     inkscape:cx="254.41836"
+     inkscape:cx="254.64431"
      inkscape:cy="256"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
@@ -65,6 +65,15 @@
     </linearGradient>
   </defs>
   <!-- Main rounded rectangle -->
+  <rect
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stroke-opacity:1"
+     id="rect1"
+     width="513.80762"
+     height="515.61517"
+     x="-1.3556929"
+     y="-1.8075905"
+     rx="3.1633704"
+     ry="0.9966203" />
   <rect
      x="40"
      y="140"
